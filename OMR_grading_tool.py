@@ -673,7 +673,7 @@ with tab3:
 st.markdown("---")
 st.markdown("""
 <div class='footer'>
-    <p>MarkIt™ Premium OMR Solution | © 2025 | All Rights Reserved</p>
+    <p>MarkIt™ Premium OMR Solution | © 2025 Minosh Perera | All Rights Reserved</p>
     <p>Bringing Speed and Accuracy to Exam Grading</p>
 </div>
 """, unsafe_allow_html=True)
