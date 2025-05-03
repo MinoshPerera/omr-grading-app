@@ -25,7 +25,7 @@
 
 ## 🛠️ Installation
 
-No installation is required! This application runs directly in your web browser using Streamlit. Simply upload the Python script (`MCQ Evaluator Powered by AI.py`) to a Streamlit sharing platform or run it locally if you have Streamlit installed.
+No installation is required! This application runs directly in your web browser using Streamlit. Simply upload the Python script (`OMR_grading_tool.py`) to a Streamlit sharing platform or run it locally if you have Streamlit installed.
 
 ### Running Locally (if needed)
 
@@ -33,11 +33,11 @@ No installation is required! This application runs directly in your web browser 
     ```bash
     pip install streamlit opencv-python numpy pandas pillow openpyxl xlsxwriter
     ```
-2.  Save the provided Python code as `MCQ Evaluator Powered by AI.py`.
+2.  Save the provided Python code as `OMR_grading_tool.py`.
 3.  Navigate to the directory where you saved the file in your terminal.
 4.  Run the Streamlit app:
     ```bash
-    streamlit run MCQ Evaluator Powered by AI.py
+    streamlit run OMR_grading_tool.py
     ```
 5.  The application will automatically open in your web browser.
 
@@ -64,10 +64,6 @@ MarkIt™ is designed with a user-friendly tab-based interface for a straightfor
 * View the total number of processed sheets, average score, and highest score.
 * A table displays the results of each processed sheet.
 * An option to "📥 Export All Results" allows you to download a comprehensive Excel file of all processed data.
-
-## 🖼️ Screenshots
-
-*(You can add screenshots of the application interface here if you wish to visually showcase the different tabs and features.)*
 
 ## 🤝 Contributing
 
