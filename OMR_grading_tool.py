@@ -314,15 +314,6 @@ with st.sidebar:
         st.markdown("No answer sheets processed yet.")
     
     st.markdown("---")
-    
-    # Add a testimonial
-    st.markdown("### 💬 What Educators Say")
-    st.markdown("""
-    > *"MarkIt has revolutionized how we grade exams. What took hours now takes minutes!"*
-    
-    **- Dr. Sarah Johnson**  
-    Director of Assessment, Wellington Academy
-    """)
 
 # Create tabs for the application flow with better naming
 tab1, tab2, tab3 = st.tabs(["🔑 Configure Answer Key", "📝 Grade Answer Sheets", "📊 Analytics Dashboard"])
