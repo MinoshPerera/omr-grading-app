@@ -1,6 +1,13 @@
-# MarkIt™ - Premium OMR Solution
+# MarkIt™ - The Premium OMR Solution for Modern Educators
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your_streamlit_app_url)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?logo=opencv&logoColor=black)](https://opencv.org/)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pillow](https://img.shields.io/badge/Pillow-FFD43B?logo=Pillow&logoColor=blue)](https://pillow.readthedocs.io/en/stable/)
+[![XLSXWriter](https://img.shields.io/badge/XLSXWriter-%23214932.svg?logo=&logoColor=white)](https://xlsxwriter.readthedocs.io/)
 
 **MarkIt™** is a cutting-edge Optical Mark Recognition (OMR) solution designed to help educators grade multiple-choice exams with unparalleled speed and accuracy. Leveraging advanced image processing techniques, MarkIt™ transforms the tedious task of manual grading into a swift and efficient process.
 
@@ -74,6 +81,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 * Built with ❤️ using [Streamlit](https://streamlit.io/).
 * Leverages the power of [OpenCV](https://opencv.org/) for image processing, [NumPy](https://numpy.org/) for numerical operations, [Pandas](https://pandas.pydata.org/) for data manipulation, and [Pillow](https://pillow.readthedocs.io/en/stable/) for image handling.
+* Utilizes [XLSXWriter](https://xlsxwriter.readthedocs.io/) for creating Excel reports.
 * Styled with custom CSS to provide a premium user experience.
 
 ---
